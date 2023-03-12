@@ -14,4 +14,6 @@ My wallpapers ( The best Dotfiles of all ^^ )
 
 Rofi is REQUIRED to use my polybar.
 
-You can use the also by me used configs frm the rofi themes github page: https://github.com/dctxmei/rofi-themes/blob/master/README.md
+You can use the also by me used configs from the rofi themes github page: 
+
+https://github.com/dctxmei/rofi-themes/blob/master/README.md
